@@ -1,0 +1,6 @@
+{
+  "skip_files": [
+    "test/support",
+    "lib/rockelivery_wec/channels/user_socket.ex"
+  ]
+}
